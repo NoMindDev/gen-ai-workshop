@@ -31,8 +31,8 @@ Plan a team lunch.
 
 2b:
 ```txt
-Plan a team lunch for 10 people with a budget of 1000 Ngultrum per person, within a 10-minute walk of the office,
-and include at least 2 vegetarian options.
+Plan a team lunch for 10 people with a budget of 1000 Ngultrum per person,
+within a 10-minute walk of the office, and include at least 2 vegetarian options.
 ```
 
 ### Clarity
@@ -70,8 +70,9 @@ What laptop should I buy?
 
 5b:
 ```txt
-Give me laptop options for office work, video calls, Excel, and light photo editing. My budget is BTN 80,000,
-I want at least 16 GB RAM, and battery life matters more than performance. Explain the main trade-off of each option.
+Give me laptop options for office work, video calls, Excel, and light photo editing.
+My budget is BTN 80,000, I want at least 16 GB RAM, and battery life matters more than performance.
+Explain the main trade-off of each option.
 ```
 
 ---
@@ -83,10 +84,15 @@ Should I get a smartwatch?
 
 6b:
 ```txt
-Help me decide whether a smartwatch is worth buying for someone who mainly wants step tracking, workout tracking,
-notifications, timers, and sleep tracking. I do not care about making calls from my watch.
-Explain which features would actually be useful and which are probably unnecessary.
+Help me decide whether a smartwatch is worth buying for someone who mainly wants step tracking,
+workout tracking, notifications, timers, and sleep tracking.
+I do not care about making calls from my watch. Explain which features would actually be useful
+and which are probably unnecessary.
 ```
+
+
+## Promptly - prompt refinement extension
+> https://www.promptly.fyi/
 
 
 ## Structured outputs
@@ -94,13 +100,15 @@ Explain which features would actually be useful and which are probably unnecessa
 ### Bullet points
 7:
 ```txt
-Give me five things to check before buying a new laptop. Use one bullet point per item and keep each explanation to one sentence.
+Give me five things to check before buying a new laptop.
+Use one bullet point per item and keep each explanation to one sentence.
 ```
 
 ### Numbered list
 8:
 ```txt
-Explain how to prepare for a job interview in six numbered steps, from researching the company to following up afterward.
+Explain how to prepare for a job interview in six numbered steps,
+from researching the company to following up afterward.
 ```
 
 ### Table
@@ -115,7 +123,7 @@ Return the answer as a table with the rows: Cost, Flexibility, Maintenance, and 
 10:
 ```txt
 Create an Excel spreadsheet comparing the Toyota Land Cruiser generations over time.
-Include only the mainline Land Cruiser series, and exclude Prado models, limited one-off variants, and special editions.
+Include only the mainline Land Cruiser series, exclude Prado and other models.
 
 Use each generation/series as a row label, and include exactly two price columns:
 
@@ -128,10 +136,12 @@ Use reliable historical pricing and inflation data, and include the launch year 
 ### MS Word document
 11:
 ```txt
-Create a short Microsoft Word document explaining what each major Toyota Land Cruiser generation introduced
-compared with the generation before it.
+Create a short Microsoft Word document explaining what each major Toyota Land Cruiser generation
+introduced compared with the generation before it.
 
-For each generation, briefly cover the most important new technology, mechanical improvements, safety features, comfort features, and major design changes. Focus only on the main Land Cruiser series and exclude Prado models and special one-off variants
+For each generation, briefly cover the most important new technology, mechanical improvements,
+safety features, comfort features, and major design changes. Focus only on the main Land Cruiser series
+and exclude Prado models and special one-off variants
 ```
 
 ### MS PowerPoint document
@@ -145,3 +155,37 @@ changed from the previous generation, and the most important new features or tec
 Keep the slides visual and concise, and focus only on the main Land Cruiser series,
 excluding Prado models and special one-off variants.
 ```
+
+
+## Image generation
+
+Log into Gemini
+> https://gemini.google.com/
+
+13:
+```
+Create a professional social media recruitment poster for NRDCL inviting university students
+and recent graduates to apply for internship opportunities.
+
+Use a clean, modern corporate design with imagery inspired by Bhutan's forests,
+natural resources, and young professionals at work.
+
+Include the headline: "Start Your Career With NRDCL"
+
+Include:
+- Internship opportunities now open
+- Open to university students and recent graduates
+- Gain practical workplace experience
+- Application deadline: 30 September 2026
+- Apply at: careers.nrdcl.bt
+
+Use green and white as the main colors. Make the text easy to read and
+leave enough empty space so the design does not feel crowded.
+
+Format it as a square Instagram and Facebook post.
+```
+
+
+# Day 2
+
+[TO-DO]
