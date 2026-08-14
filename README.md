@@ -4,6 +4,10 @@
 # Day 1
 
 
+Log into ChatGPT
+> https://chatgpt.com
+
+
 ## Prompting Techniques
 
 ### Clarity
@@ -27,7 +31,8 @@ Plan a team lunch.
 
 2b:
 ```txt
-Plan a team lunch for 10 people with a budget of 1000 Ngultrum per person, within a 10-minute walk of the office, and include at least 2 vegetarian options.
+Plan a team lunch for 10 people with a budget of 1000 Ngultrum per person, within a 10-minute walk of the office,
+and include at least 2 vegetarian options.
 ```
 
 ### Clarity
@@ -39,7 +44,8 @@ Draft an email reminding employees to complete their training.
 
 3b:
 ```txt
-Draft an email reminding employees to complete their mandatory cybersecurity training by Friday. Several employees have not yet completed it, so the tone should be polite but firm.
+Draft an email reminding employees to complete their mandatory cybersecurity training by Friday.
+Several employees have not yet completed it, so the tone should be polite but firm.
 ```
 
 ### Practice prompts
@@ -50,7 +56,9 @@ Give me some names for an AI training program.
 
 4b:
 ```txt
-Suggest 10 names for an internal employee learning program focused on digital skills and AI. The names should sound professional, modern, and easy to remember. Avoid overly technical words and explain the idea behind each name in one sentence.
+Suggest 10 names for an internal employee learning program focused on digital skills and AI.
+The names should sound professional, modern, and easy to remember.
+Avoid overly technical words and explain the idea behind each name in one sentence.
 ```
 
 ---
@@ -62,7 +70,8 @@ What laptop should I buy?
 
 5b:
 ```txt
-Give me laptop options for office work, video calls, Excel, and light photo editing. My budget is BTN 80,000, I want at least 16 GB RAM, and battery life matters more than performance. Explain the main trade-off of each option.
+Give me laptop options for office work, video calls, Excel, and light photo editing. My budget is BTN 80,000,
+I want at least 16 GB RAM, and battery life matters more than performance. Explain the main trade-off of each option.
 ```
 
 ---
@@ -74,7 +83,9 @@ Should I get a smartwatch?
 
 6b:
 ```txt
-Help me decide whether a smartwatch is worth buying for someone who mainly wants step tracking, workout tracking, notifications, timers, and sleep tracking. I do not care about making calls from my watch. Explain which features would actually be useful and which are probably unnecessary.
+Help me decide whether a smartwatch is worth buying for someone who mainly wants step tracking, workout tracking,
+notifications, timers, and sleep tracking. I do not care about making calls from my watch.
+Explain which features would actually be useful and which are probably unnecessary.
 ```
 
 
@@ -95,28 +106,42 @@ Explain how to prepare for a job interview in six numbered steps, from researchi
 ### Table
 9:
 ```txt
-Compare renting versus buying a car. Return the answer as a table with the rows: Cost, Flexibility, Maintenance, and Long-term Value.
+Compare renting versus buying a car.
+Return the answer as a table with the rows: Cost, Flexibility, Maintenance, and Long-term Value.
 ```
 
 
-### MS Word document
+### MS Excel document
 10:
 ```txt
-Create an Excel spreadsheet comparing the main Toyota Land Cruiser generations over time. Include only the core Land Cruiser series, and exclude Prado models, limited one-off variants, and special editions.
+Create an Excel spreadsheet comparing the Toyota Land Cruiser generations over time.
+Include only the mainline Land Cruiser series, and exclude Prado models, limited one-off variants, and special editions.
 
 Use each generation/series as a row label, and include exactly two price columns:
 
-Original launch price, converted to Bhutanese Ngultrum (BTN)
-That launch price adjusted for inflation to today's value, also in BTN
+- Original launch price, converted to Bhutanese Ngultrum (BTN)
+- That launch price adjusted for inflation to today's value, also in BTN
 
 Use reliable historical pricing and inflation data, and include the launch year for each generation in the row label.
 ```
 
-> Create an Excel spreadsheet comparing the main Toyota Land Cruiser generations over time. Include only the core Land Cruiser series, and exclude Prado models, limited one-off variants, and special editions.
-> 
-> Use each generation/series as a row label, and include exactly two price columns:
-> 
-> Original launch price, converted to Bhutanese Ngultrum (BTN)
-> That launch price adjusted for inflation to today's value, also in BTN
->
-> Use reliable historical pricing and inflation data, and include the launch year for each generation in the row label.
+### MS Word document
+11:
+```txt
+Create a short Microsoft Word document explaining what each major Toyota Land Cruiser generation introduced
+compared with the generation before it.
+
+For each generation, briefly cover the most important new technology, mechanical improvements, safety features, comfort features, and major design changes. Focus only on the main Land Cruiser series and exclude Prado models and special one-off variants
+```
+
+### MS PowerPoint document
+12:
+```
+Create a Microsoft PowerPoint presentation showing the evolution of the Toyota Land Cruiser through its major generations.
+
+Use one slide per major generation. For each, include the years it was produced, a short description of how it
+changed from the previous generation, and the most important new features or technologies it introduced.
+
+Keep the slides visual and concise, and focus only on the main Land Cruiser series,
+excluding Prado models and special one-off variants.
+```
