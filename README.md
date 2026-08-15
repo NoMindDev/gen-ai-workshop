@@ -146,7 +146,7 @@ and exclude Prado models and special one-off variants
 
 ### MS PowerPoint document
 12:
-```
+```txt
 Create a Microsoft PowerPoint presentation showing the evolution of the Toyota Land Cruiser through its major generations.
 
 Use one slide per major generation. For each, include the years it was produced, a short description of how it
@@ -163,7 +163,7 @@ Log into Gemini
 > https://gemini.google.com/
 
 13:
-```
+```txt
 Create a professional social media recruitment poster for NRDCL inviting university students
 and recent graduates to apply for internship opportunities.
 
@@ -188,4 +188,76 @@ Format it as a square Instagram and Facebook post.
 
 # Day 2
 
-[TO-DO]
+## Working with Data in Google Drive using the plugin
+
+### Working with tables in Google Sheets
+14:
+```txt
+Go to my Google Drive folder named "Generative AI Workshop" and open the Google Sheet
+named "data analysis using plugins" and work with the sheet named "factory log".
+
+Add a new column called "Category". Classify every log entry into exactly one of these two categories
+based on the Remarks column:
+- Routine maintenance
+- Equipment in need of replacement
+
+Then reorder the rows so that entries in the same category are grouped together.
+
+Do not change the existing Log ID, Area, or Remarks values.
+```
+
+---
+
+### Creating plots
+15:
+```txt
+Go to my Google Drive folder named "Generative AI Workshop" and open the Google Sheet
+named "data analysis using plugins" and work with the "dzongkhag electricity" sheet.
+
+Create a grouped bar chart comparing Electricity Consumption (GWh) and Renewable Generation (GWh) for each dzongkhag.
+
+Use Dzongkhag on the horizontal axis and GWh on the vertical axis. Give the chart a clear title and legend,
+and place the chart neatly below the data table.
+```
+
+---
+
+### Creating reports/documents in Google Docs
+16:
+```txt
+Go to my Google Drive folder named "Generative AI Workshop" and open the Google Sheet
+named "data analysis using plugins" and refer the "dzongkhag electricity" sheet,
+to create a short Google Docs report titled "Dzongkhag Electricity Overview".
+
+Summarize the electricity data across the 10 dzongkhags. Highlight:
+- Dzongkhags with the highest and lowest electricity consumption
+- Dzongkhags with the highest renewable generation
+- Interesting differences between electricity consumption and renewable generation
+- Any notable patterns in the number of connected households
+
+Include a small summary table of the most important figures. Keep the report concise and suitable for a general business audience.
+
+Base the report only on the data in the sheet and do not invent additional statistics.
+```
+
+---
+
+### Creating presentations in Google Slides
+17:
+```txt
+Go to my Google Drive folder named "Generative AI Workshop" and open the Google Sheet
+named "data analysis using plugins" and refer the "dzongkhag electricity" sheet,
+to create a short Google Slides presentation titled "Electricity Across 10 Dzongkhags".
+
+Create 5 slides (exluding the welcome and thank you slides) covering:
+- Title and overview
+- Electricity consumption by dzongkhag
+- Renewable generation by dzongkhag
+- Households connected
+- Key observations and takeaways
+
+Use charts where appropriate and keep the slides visual and concise.
+Highlight the most noticeable differences between dzongkhags rather than filling the slides with text.
+
+Use only the data contained in the sheet.
+```
