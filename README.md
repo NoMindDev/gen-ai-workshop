@@ -117,7 +117,10 @@ from researching the company to following up afterward.
 Compare renting versus buying a car.
 Return the answer as a table with the rows: Cost, Flexibility, Maintenance, and Long-term Value.
 ```
-
+## Hallucination
+```
+https://chatgpt.com/
+```
 
 ### MS Excel document
 10:
