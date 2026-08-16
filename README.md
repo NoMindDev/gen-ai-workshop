@@ -191,6 +191,10 @@ Format it as a square Instagram and Facebook post.
 
 
 
+<br> <br>
+
+
+
 # Day 2
 
 ## Working with Data in Google Drive using the plugin
@@ -265,4 +269,41 @@ Use charts where appropriate and keep the slides visual and concise.
 Highlight the most noticeable differences between dzongkhags rather than filling the slides with text.
 
 Use only the data contained in the sheet.
+```
+
+
+
+## Gamma 
+
+> https://gamma.app/
+
+
+### Using Gamma to create presentations
+
+18:
+```txt
+Create a presentation on the disappointing evolution of the Toyota RAV4 from a cute little fun car
+to a monstrous huge SUV that is nearly as big as a Prado, but not really a Prado.
+```
+
+19:
+```txt
+Create a visually engaging 6-slide presentation titled "Mountain Biking in Bhutan."
+Cover why Bhutan is well suited for mountain biking, the types of terrain and riding experiences available,
+and popular destinations such as Thimphu, Paro, Haa, Punakha, Phobjikha, and Bumthang.
+Include examples of forest trails, mountain passes, village routes, and scenic descents.
+Highlight the combination of adventure, Himalayan landscapes, local culture, and relatively low-traffic roads.
+```
+
+20:
+```txt
+Create a visually engaging 6-slide presentation titled "Hydropower in Bhutan."
+Explain why hydropower is important to Bhutan, how the country's rivers and geography support hydropower development,
+and highlight major projects such as Chhukha, Tala, Mangdechhu, and Punatsangchhu-II.
+Include Bhutan's role as an electricity exporter, the economic importance of hydropower, current installed capacity,
+future expansion plans, and key challenges such as seasonal generation, climate risks, and environmental considerations.
+Keep the text concise, use maps, river and dam imagery, and use a clean blue-and-green energy theme.
+Use current, reliable information and do not invent statistics. 
+Bhutan's installed hydropower capacity is now about 3,500 MW,
+and the National Energy Policy 2025 targets 20,000 MW of hydropower capacity by 2040.
 ```
