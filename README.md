@@ -237,6 +237,9 @@ Format it as a square Instagram and Facebook post.
 ## External Document
 >https://drive.google.com/file/d/1YOWi-Gfs9spo4kVXoUXJbaA3uadXL432/view?usp=sharing
 
+## Link to paste your image
+>https://padlet.com/kuenzangnamyel01/my-fearless-padlet-y7gvnjtefbfg3ekl
+
 ## Hallucination
 
 > https://chatgpt.com/
