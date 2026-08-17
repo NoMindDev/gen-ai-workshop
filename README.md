@@ -241,6 +241,9 @@ Format it as a square Instagram and Facebook post.
 
 > https://chatgpt.com/
 
+``` txt
+Give me 5 quick facts about NRDCL: when it was established, where its headquarters is, its main business activities, how many regional offices it has, and one major project it has carried out.
+```
 
 
 <br> <br>
