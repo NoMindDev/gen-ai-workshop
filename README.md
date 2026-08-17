@@ -397,4 +397,4 @@ and the National Energy Policy 2025 targets 20,000 MW of hydropower capacity by 
 ```
 
 ### OpenAI Key
-Copy the code send through WhatsApp
+Use the code shared through the WhatsApp.
