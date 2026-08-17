@@ -234,6 +234,9 @@ Format it as a square Instagram and Facebook post.
 ```
 
 
+## External Document
+>https://drive.google.com/file/d/1YOWi-Gfs9spo4kVXoUXJbaA3uadXL432/view?usp=sharing
+
 ## Hallucination
 
 > https://chatgpt.com/
