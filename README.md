@@ -245,6 +245,29 @@ Format it as a square Instagram and Facebook post.
 Give me 5 quick facts about NRDCL: when it was established, where its headquarters is, its main business activities, how many regional offices it has, and one major project it has carried out.
 ```
 
+## Gemini Notebook
+
+> https://notebook.google.com/
+
+### Prompt
+'''text
+Imagine I am new to NRDCL. I know very little about the organization, and I want to understand it quickly using the company website.
+'''
+
+### Audio Prompt
+'''text
+Create a short, podcast-style introduction to NRDCL for someone who has just joined the organization and knows very little about it.
+'''
+
+### video Prompt
+'''text
+Create a short video overview titled “Understanding NRDCL.
+'''
+
+### Mind Map Prompt
+'''text
+Create a mind map showing the organizational structure and hierarchy of NRDCL based only on the sources in this notebook.
+'''
 
 <br> <br>
 
