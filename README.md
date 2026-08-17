@@ -260,9 +260,9 @@ Create a short, podcast-style introduction to NRDCL for someone who has just joi
 ```
 
 ### video Prompt
-'''text
+```text
 Create a short video overview titled “Understanding NRDCL.
-'''
+```
 
 ### Mind Map Prompt
 ```text
