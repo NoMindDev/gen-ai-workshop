@@ -118,8 +118,23 @@ Compare renting versus buying a car.
 Return the answer as a table with the rows: Cost, Flexibility, Maintenance, and Long-term Value.
 ```
 
-### MS Excel document
+### Asking for an output structure that can be directly pasted into Excel
+_Asking for a "code block"_
+
 10:
+```txt
+Give me a list of all 20 dzongkhags in Bhutan and their area in square kilometres.
+Return the result as a code block that I can paste directly into Excel.
+
+Use exactly two columns:
+- Dzongkhag
+- Area (sq km)
+
+Use reliable sources, verify the figures, and do not include any extra explanation outside the code block.
+```
+
+### MS Excel document
+11:
 ```txt
 Create an Excel spreadsheet comparing the Toyota Land Cruiser generations over time.
 Include only the mainline Land Cruiser series, exclude Prado and other models.
@@ -133,7 +148,7 @@ Use reliable historical pricing and inflation data, and include the launch year 
 ```
 
 ### MS Word document
-11:
+12:
 ```txt
 Create a short Microsoft Word document explaining what each major Toyota Land Cruiser generation
 introduced compared with the generation before it.
@@ -144,7 +159,7 @@ and exclude Prado models and special one-off variants
 ```
 
 ### MS PowerPoint document
-12:
+13:
 ```txt
 Create a Microsoft PowerPoint presentation showing the evolution of the Toyota Land Cruiser through its major generations.
 
@@ -156,12 +171,46 @@ excluding Prado models and special one-off variants.
 ```
 
 
-## Image generation
+## Deep Research
+14:
+```txt
+Conduct deep research on the current state and future of hydropower in Bhutan.
+
+Cover the following:
+- Bhutan's current hydropower capacity and major operational projects
+- Projects under construction or planned
+- Hydropower's contribution to government revenue, exports, and the wider economy
+- Bhutan's electricity trade with India
+- Seasonal generation and domestic energy-security challenges
+- Environmental and climate-related risks
+- Financing and implementation challenges
+- Bhutan's long-term hydropower and energy targets
+- Opportunities from regional power trade, storage, and diversification into solar or other renewables
+
+Use recent, authoritative sources such as Bhutanese government agencies, project authorities,
+multilateral institutions, and reputable research organizations.
+
+Clearly distinguish between current facts, announced plans, and projections.
+Include citations for important claims, compare conflicting figures where necessary,
+and end with a concise summary of the key opportunities and risks for Bhutan over the next 10 to 15 years.
+```
+
+## Image generation (using ChatGPT)
+15:
+```txt
+Generate a realistic image of a hydropower plant in Bhutan, set in a Himalayan valley with steep green mountains,
+a fast-flowing river, and Bhutanese landscape features.
+Show the plant integrated into the natural environment, with a dam, transmission lines,
+and cloudy mountain scenery. Make the image detailed, natural, and visually striking
+```
+
+
+## Image generation (using Gemini)
 
 Log into Gemini
 > https://gemini.google.com/
 
-13:
+16:
 ```txt
 Create a professional social media recruitment poster for NRDCL inviting university students
 and recent graduates to apply for internship opportunities.
@@ -200,7 +249,7 @@ Format it as a square Instagram and Facebook post.
 ## Working with Data in Google Drive using the plugin
 
 ### Working with tables in Google Sheets
-14:
+17:
 ```txt
 Go to my Google Drive folder named "Generative AI Workshop" and open the Google Sheet
 named "data analysis using plugins" and work with the sheet named "factory log".
@@ -218,7 +267,7 @@ Do not change the existing Log ID, Area, or Remarks values.
 ---
 
 ### Creating plots
-15:
+18:
 ```txt
 Go to my Google Drive folder named "Generative AI Workshop" and open the Google Sheet
 named "data analysis using plugins" and work with the "dzongkhag electricity" sheet.
@@ -232,7 +281,7 @@ and place the chart neatly below the data table.
 ---
 
 ### Creating reports/documents in Google Docs
-16:
+19:
 ```txt
 Go to my Google Drive folder named "Generative AI Workshop" and open the Google Sheet
 named "data analysis using plugins" and refer the "dzongkhag electricity" sheet,
@@ -252,7 +301,7 @@ Base the report only on the data in the sheet and do not invent additional stati
 ---
 
 ### Creating presentations in Google Slides
-17:
+20:
 ```txt
 Go to my Google Drive folder named "Generative AI Workshop" and open the Google Sheet
 named "data analysis using plugins" and refer the "dzongkhag electricity" sheet,
@@ -280,13 +329,13 @@ Use only the data contained in the sheet.
 
 ### Using Gamma to create presentations
 
-18:
+21:
 ```txt
 Create a presentation on the disappointing evolution of the Toyota RAV4 from a cute little fun car
 to a monstrous huge SUV that is nearly as big as a Prado, but not really a Prado.
 ```
 
-19:
+22:
 ```txt
 Create a visually engaging 6-slide presentation titled "Mountain Biking in Bhutan."
 Cover why Bhutan is well suited for mountain biking, the types of terrain and riding experiences available,
@@ -295,7 +344,7 @@ Include examples of forest trails, mountain passes, village routes, and scenic d
 Highlight the combination of adventure, Himalayan landscapes, local culture, and relatively low-traffic roads.
 ```
 
-20:
+23:
 ```txt
 Create a visually engaging 6-slide presentation titled "Hydropower in Bhutan."
 Explain why hydropower is important to Bhutan, how the country's rivers and geography support hydropower development,
