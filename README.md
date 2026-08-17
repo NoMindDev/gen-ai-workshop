@@ -388,3 +388,15 @@ Use current, reliable information and do not invent statistics.
 Bhutan's installed hydropower capacity is now about 3,500 MW,
 and the National Energy Policy 2025 targets 20,000 MW of hydropower capacity by 2040.
 ```
+
+## AI Automation
+
+### n8n Prompt 
+```txt
+
+```
+
+### OpenAI Key
+```txt
+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
+```
