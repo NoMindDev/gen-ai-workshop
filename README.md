@@ -435,6 +435,9 @@ Create an automation that triggers when a new email is received. Use OpenAI to a
 ### OpenAI Key
 Use the code shared through the WhatsApp.
 
+### Hackathon Submission
+>https://padlet.com/kuenzangnamyel01/hackathon-presentation-39wbk74u2oekzwmu
+
 ## Lovable
 
 ### Website Generation Prompt
