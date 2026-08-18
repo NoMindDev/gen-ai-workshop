@@ -391,6 +391,23 @@ and the National Energy Policy 2025 targets 20,000 MW of hydropower capacity by 
 
 ## AI Automation
 
+### Sample Incoming Email
+```txt
+Subject: Football Match Tonight at 9:00 PM
+
+Hi Deepshik,
+
+We are planning to have a friendly football match tonight, 18 August, at 9:00 PM.
+
+A few of us will be playing, and we would be happy if you could join us. Please let me know if you are available so that we can confirm the number of players.
+
+Looking forward to the game!
+
+Best regards,
+Sonam
+
+```
+
 ### n8n Prompt 
 ```txt
 
