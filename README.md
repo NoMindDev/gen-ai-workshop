@@ -636,3 +636,8 @@ Make the design polished enough for:
 
 ### Link to submit your website
 > https://padlet.com/kuenzangnamyel01/website-tyy94ta1kous2ui0
+
+### Voice Prompt
+```txt
+Kuzuzangpo la. Bhutan’s forests are one of our most valuable natural resources. Protecting them is not only about conserving trees — it is about protecting our environment, communities, and future generations. Together, through responsible management and innovation, we can ensure that Bhutan’s natural resources continue to benefit generations to come.
+```
