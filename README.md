@@ -405,12 +405,11 @@ Looking forward to the game!
 
 Best regards,
 Sonam
-
 ```
 
 ### n8n Prompt 
 ```txt
-
+Create an automation that triggers when a new email is received. Use OpenAI to analyze the email and generate a suitable reply, then save that reply as a draft in my email account. Do not send the email automatically.
 ```
 
 ### OpenAI Key
