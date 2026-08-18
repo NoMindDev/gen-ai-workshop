@@ -278,6 +278,26 @@ Create a mind map showing the organizational structure and hierarchy of NRDCL ba
 
 # Day 2
 
+## Working with Gmail using plugin
+```txt
+Go to my Gmail account and search my Sent emails for messages where I applied for leave.
+
+Identify each leave application and return a table with these columns:
+
+- Date of leave
+- Leave category
+- Subject or brief reason
+
+Classify the leave category as either:
+- Casual Leave
+- Sick Leave
+
+Use the actual leave date mentioned in the email, not just the date the email was sent.
+
+If the leave category is unclear, mark it as 'Unclear' rather than guessing.
+Ignore unrelated emails and duplicate applications.
+```
+
 ## Working with Data in Google Drive using the plugin
 
 ### Working with tables in Google Sheets
