@@ -613,3 +613,6 @@ Make the design polished enough for:
 > https://knthinley.vercel.app/
 
 > https://www.siteinspire.com/websites/
+
+### Link to submit your website
+> https://padlet.com/kuenzangnamyel01/website-tyy94ta1kous2ui0
