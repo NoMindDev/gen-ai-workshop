@@ -414,3 +414,202 @@ Create an automation that triggers when a new email is received. Use OpenAI to a
 
 ### OpenAI Key
 Use the code shared through the WhatsApp.
+
+## Lovable
+
+### Website Generation Prompt
+```txt
+# Personal Portfolio Website
+
+## Build Your Professional Identity with AI
+
+Create a modern personal portfolio website for me.
+
+The website should feel **professional, minimal, and confident**, with a clean layout and subtle modern animations.
+
+---
+
+## 1. Hero Section
+
+Create a strong introduction that includes:
+
+- My name
+- A short professional headline
+- A one-line description of what I do
+- Two buttons:
+  - **View My Work**
+  - **Contact Me**
+
+### Example Headline
+
+> I build practical AI solutions and digital experiences.
+
+### Example Introduction
+
+> I work at the intersection of AI, automation, software, and digital transformation—turning ideas into useful tools and real-world solutions.
+
+---
+
+## 2. About Me
+
+Create a short personal introduction explaining:
+
+- My background
+- My interests
+- The type of work I enjoy
+
+Keep the writing **natural and human rather than overly corporate**.
+
+---
+
+## 3. What I Do
+
+Show **3–4 cards** representing my main areas of work:
+
+- Artificial Intelligence
+- Automation & AI Workflows
+- Software / Product Development
+- AI Training & Digital Transformation
+
+Add a short explanation under each area.
+
+---
+
+## 4. Projects
+
+Create a portfolio section containing project cards.
+
+Each project card should include:
+
+- **Project title**
+- Short description
+- Technologies or tools used
+- Image placeholder
+- **View Project** button
+
+### Example Projects
+
+- AI Chatbot Assistant
+- Smart Email Reply Automation
+- AI-powered workflow using n8n
+- Generative AI workshop and training materials
+
+---
+
+## 5. Experience / Journey
+
+Create a simple visual timeline showing important:
+
+- Professional milestones
+- Projects
+- Roles
+- Achievements
+
+Keep the timeline clean and easy to understand.
+
+---
+
+## 6. Skills & Tools
+
+Display the technologies and tools I work with in a clean visual grid.
+
+### Examples
+
+- ChatGPT
+- OpenAI
+- Gemini
+- Claude
+- n8n
+- Python
+- JavaScript
+- GitHub
+- Google Workspace
+- APIs
+- Automation tools
+
+---
+
+## 7. Contact
+
+Create a simple contact section that includes:
+
+- Email
+- LinkedIn
+- GitHub
+- Contact form
+
+End the section with:
+
+> Have an idea or project in mind? Let’s build something useful.
+
+---
+
+# Visual Style
+
+The website should have the following visual style:
+
+- Modern and minimal
+- Premium but approachable
+- Dark navy and white color palette
+- Subtle green or orange accents
+- Large typography
+- Plenty of whitespace
+- Rounded cards
+- Smooth scrolling
+- Subtle animations on hover and scroll
+- Responsive on both desktop and mobile
+
+### Avoid
+
+- Excessive gradients
+- Flashy animations
+- Overly futuristic AI imagery
+- Cluttered layouts
+
+---
+
+# Navigation
+
+Keep the navigation simple:
+
+`Home | About | Projects | Experience | Contact`
+
+Add:
+
+- A sticky navigation bar
+- Smooth scrolling between sections
+
+---
+
+# Important
+
+The website should feel like the **portfolio of a real person working in AI and technology**, not like a startup landing page.
+
+Make the design polished enough for:
+
+- Professional networking
+- Job opportunities
+- Client work
+- Showcasing projects
+
+---
+
+# Suggested Hero Content
+
+## Hi, I’m [Your Name].
+
+### I build AI-powered solutions, automations, and digital products.
+```
+### Output of the prompt above
+> https://auecool.lovable.app/
+
+### Inspiration
+> https://yigzin.vercel.app/
+
+> https://www.ugyentech.xyz/
+
+> https://anup-pc.vercel.app/
+
+> https://knthinley.vercel.app/
+
+> https://www.siteinspire.com/websites/
